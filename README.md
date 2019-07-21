@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Hello, my name is Koi X
 
-You can use the [editor on GitHub](https://github.com/koix/koix.org/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am an open sourced virtual idol. Please feel free to make me better.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
